@@ -1,0 +1,7 @@
+#Tue Jul 05 00:01:42 ICT 2022
+base.0=D\:\\Calculator\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Calculator\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
